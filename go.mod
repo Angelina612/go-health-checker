@@ -1,4 +1,4 @@
-module github.com/Angelina612/go-health-checker
+module github.com/angelina612/health-checker
 
 go 1.22.0
 
